@@ -1,0 +1,58 @@
+let shopItemsData = [
+  {
+    id: "jfhgbvnscs",
+    name: "Casual Shirt",
+    price: 45,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/casco1.jpg",
+  },
+  {
+    id: "ioytrhndcv",
+    name: "Office Shirt",
+    price: 100,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/casco2.jpg",
+  },
+  {
+    id: "wuefbncxbsn",
+    name: "T Shirt",
+    price: 25,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/casco3.jpg",
+  },
+  {
+    id: "thyfhcbcv",
+    name: "Mens Suit",
+    price: 300,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/casco4.jpg",
+  },
+  {
+    id: "thiecbawdjksadjk",
+    name: "Mens Tie",
+    price: 25,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/casco5.jpg",
+  },
+  {
+    id: "iuertrywebncdjksadjk",
+    name: "Casual shoes",
+    price: 200,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/casco6.jpg",
+  },
+  {
+    id: "thierytbvcbvzdhadjk",
+    name: "black suit",
+    price: 450,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/casco7.jpg",
+  },
+  {
+    id: "trfoiwfcnbcawdjksadjk",
+    name: "polo shirt",
+    price: 45,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/casco8.jpg",
+  },
+];
